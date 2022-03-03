@@ -1,0 +1,54 @@
+---
+title: "Antoine Barbieri"
+image: "AB_image.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/AntoineBbi"
+  - label: Email
+    url: "mailto:antoine.barbieri@u-bordeaux.fr"
+output:
+  postcards::trestles
+---
+ 
+## Who I am ?
+
+I am an associate professor in the University of Bordeaux since September 2018. I do my research activity in Biostatistic's team in the Bordeaux population heath center (INSERM UMR1219). It rocks and I am often rockupied !
+
+## Education
+
+**University of Montpellier** | Montpellier, France
+
+Ph.D. in Biostatistics | March 2013 - June 2016
+
+## Professional experiences
+
+**INSERM UMR1138** | Centre de Recherche des Cordeliers, Paris, France
+
+Postdoctorate researcher | February 2018 - August 2018
+
+
+**Institute of Statistics, Biostatistics and Actuarial Sciences** | Université catholique de Louvain (UcL), Louvain-la-Neuve, Belgium
+
+Postdoctorate researcher | October 2016 - December 2017
+
+## Publications
+
+* de Courson H, Ferrer L, Barbieri A et al. Impact of Model Choice When Studying the Relationship Between Blood Pressure Variability and Risk of Stroke Recurrence. Hypertension. 78(5):1520-1526, 2021.
+
+* Bascoul-Mollevi C, Barbieri A, Bourgier C et al. Longitudinal analysis of health-related quality of life in cancer clinical trials: methods and interpretation of results. Quality of Life Research. 30:91–103, 2021.
+[[PDF]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)
+* Barbieri A and Legrand C. Joint longitudinal and time-to-event cure models to improve the assessment of being cured. Statistical Methods in Medical Research. 29(4):1256-1270, 2020.
+* Aroca S, Barbieri A, Clementini M, Renouard F, de Sanctis M. Treatment of class III multiple gingival recessions: prognostic factors for achieving a Complete Root Coverage. Journal of Clinical Periodontology. 45(7):861-868, 2018.
+* Bascoul-Mollevi C, Savina M, Anota A, Barbieri A, Azria D, Bonnetain F, and Gourgou S. Longitudinal Health-related quality of life analysis in oncology with time to event approaches, the STATA command qlqc30_TTD. Computer Methods and Programs in Biomedicine. 158:153-159, 2018.
+* Barbieri A, Tami M, Bry X, Azria D, Gourgou S, Mollevi C and Lavergne C. EM algorithm estimation of a structural equation model for the longitudinal study of the quality of life. Statistics in Medicine. 37(6) :1031-1046, 2018.
+* Barbieri A, Peyhardi J, Lavergne C, Conroy T, Gourgou S and Mollevi C. Item response models for the longitudinal analysis of health-related quality of life in cancer clinical trials. BMC Medical Research Methodology. 17(1):148, 2017.
+* Barbieri A, Anota A, Conroy T, Gourgou S, Juzyna B, Bonnetain F, Lavergne C and Mollevi C. Applying longitudinal model from Item Response Theory to assess the Health-Related Quality of Life in PRODIGE 4 / ACCORD 11 randomized trial. Medical Decision Making. 36(5) :615-628, 2016.
+* Barbieri A, Marin J.M and Florin K. A fully objective Bayesian approach for the Behrens-Fisher problem using historical studies. 2016.
+* Anota A, Barbieri A, Savina M, Pam A, Gourgou-Bourgade S, Bonnetain F and Bascoul-Mollevi C. Comparison of three longitudinal analysis models for the health-related quality of life in oncology: a simulation study. Health and Quality of Life Outcomes. 12:192, 2014.
+
+## Software
+
+* BQt is a downloadable R-package from GitHub. This package concerns the estimation of quantile regression joint models, linear quantile mixed models, and linear quantile regression, using Bayesian approach.
+* JMcuR is a downloadable R-package from GitHub. This package includes all programs associated with the published research in Barbieri and Legrand (2019).
+* QoLSEM is a downloadable R-package from GitHub. This package includes programs associated with the published research in Barbieri A, Tami M et al. (2018).
+
