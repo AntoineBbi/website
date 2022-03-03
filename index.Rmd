@@ -14,7 +14,11 @@ output:
  
 ## Who I am ?
 
-I am an associate professor in the University of Bordeaux since September 2018. I do my research activity in Biostatistic's team in the Bordeaux population heath center (INSERM UMR1219). It rocks and I am often rockupied !
+I am currently associate professor at the [University of Bordeaux](https://www.u-bordeaux.fr/) since September 2018. I do my research activity in [Biostatistic team](https://www.bordeaux-population-health.center/les-equipes/biostatistique/) from [Bordeaux population heath center (INSERM UMR1219)](https://www.bordeaux-population-health.center/en/). 
+I teach in the [Unité de Formation Mathématiques et Intéractions](https://math-interactions.u-bordeaux.fr/)
+It rocks and I'm rockupied !
+
+From January 2020, I am head of the second year of MIASHS bachelor's degree of the University of Bordeaux. 
 
 ## Education
 
@@ -24,7 +28,7 @@ I am an associate professor in the University of Bordeaux since September 2018. 
 2012 | **Master's degree in Biostatistics**<br/>
 *University of Montpellier*, Montpellier, France
 
-2010 | **Bachelor's degree in Mathematics, computing applied to social sciences**<br/>
+2010 | **[Bachelor's degree in Mathematics, computing applied to social sciences](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/licence-XA/licence-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-IDIVNLE7.html)**<br/>
 *University of Grenoble*, Grenoble, France
 
 ## Professional experiences
@@ -39,11 +43,11 @@ February 2018 - August 2018<br/>
 
 October 2016 - December 2017<br/>
 **Postdoctorate researcher**<br/>
-**Institute of Statistics, Biostatistics and Actuarial Sciences**, *Université catholique de Louvain (UcL)*, Louvain-la-Neuve, Belgium
+*[Institute of Statistics, Biostatistics and Actuarial Sciences](https://uclouvain.be/en/research-institutes/lidam/isba)*, *Université catholique de Louvain (UcL)*, Louvain-la-Neuve, Belgium
 
 March 2013 - June 2016<br/>
 **Ph.D student in Biostatistics **<br/>
-*Institut Montpelliérain Alexander Grothendieck, Univ. Montpellier | Institut régional du Cancer Montpellier*, Montpellier, France
+*[Institut Montpelliérain Alexander Grothendieck](https://imag.edu.umontpellier.fr/), Univ. Montpellier | [Institut régional du Cancer Montpellier](https://www.icm.unicancer.fr/fr)*, Montpellier, France
 
 March 2012 - September 2012<br/>
 **Internship in Biostatistics **<br/>
@@ -53,26 +57,17 @@ March 2012 - September 2012<br/>
 ## Publications
 
 * **Barbieri A**, Cousson-Gélie F, Baussard L, Gourgou S, Lavergne C, Mollevi C. **The importance of using ordinal scores for patient classification based on health-related quality of life trajectories.** Accepted in *Pharmaceutical statistics*, 2022.
-* de Courson H, Ferrer L, **Barbieri A** et al. **Impact of Model Choice When Studying the Relationship Between Blood Pressure Variability and Risk of Stroke Recurrence.** *Hypertension.* 78(5):1520-1526, 2021.
-[[Link]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)
-* Bascoul-Mollevi C, **Barbieri A**, Bourgier C et al. **Longitudinal analysis of health-related quality of life in cancer clinical trials: methods and interpretation of results.** *Quality of Life Research.* 30:91–103, 2021.
-[[Link]](https://link.springer.com/article/10.1007/s11136-020-02605-3)
-* **Barbieri A** and Legrand C. **Joint longitudinal and time-to-event cure models to improve the assessment of being cured.** *Statistical Methods in Medical Research.* 29(4):1256-1270, 2020.
-[[Link]](https://journals.sagepub.com/doi/10.1177/0962280219853599)
-* Aroca S, **Barbieri A**, Clementini M, Renouard F, de Sanctis M. **Treatment of class III multiple gingival recessions: prognostic factors for achieving a Complete Root Coverage.** *Journal of Clinical Periodontology.* 45(7):861-868, 2018.
-[[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcpe.12923)
-* Bascoul-Mollevi C, Savina M, Anota A, **Barbieri A**, Azria D, Bonnetain F, and Gourgou S. **Longitudinal Health-related quality of life analysis in oncology with time to event approaches, the STATA command qlqc30_TTD.** *Computer Methods and Programs in Biomedicine.* 158:153-159, 2018.
-[[Link]](https://www.sciencedirect.com/science/article/pii/S0169260717301049)
-* **Barbieri A**, Tami M, Bry X, Azria D, Gourgou S, Mollevi C and Lavergne C. **EM algorithm estimation of a structural equation model for the longitudinal study of the quality of life.** *Statistics in Medicine.* 37(6) :1031-1046, 2018.
-[[Link]](https://onlinelibrary.wiley.com/doi/10.1002/sim.7557)
-* **Barbieri A**, Peyhardi J, Lavergne C, Conroy T, Gourgou S and Mollevi C. **Item response models for the longitudinal analysis of health-related quality of life in cancer clinical trials.** *BMC Medical Research Methodology.* 17(1):148, 2017.
-[[Link]](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-017-0410-9)
-* **Barbieri A**, Anota A, Conroy T, Gourgou S, Juzyna B, Bonnetain F, Lavergne C and Mollevi C. **Applying longitudinal model from Item Response Theory to assess the Health-Related Quality of Life in PRODIGE 4 / ACCORD 11 randomized trial.** *Medical Decision Making.* 36(5) :615-628, 2016.
-[[Link]](https://pubmed.ncbi.nlm.nih.gov/26683246/)
+* de Courson H, Ferrer L, **Barbieri A** et al. *[Impact of Model Choice When Studying the Relationship Between Blood Pressure Variability and Risk of Stroke Recurrence.](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)* *Hypertension.* 78(5):1520-1526, 2021.
+* Bascoul-Mollevi C, **Barbieri A**, Bourgier C et al. *[Longitudinal analysis of health-related quality of life in cancer clinical trials: methods and interpretation of results.](https://link.springer.com/article/10.1007/s11136-020-02605-3)* *Quality of Life Research.* 30:91–103, 2021.
+* **Barbieri A** and Legrand C. *[Joint longitudinal and time-to-event cure models to improve the assessment of being cured.](https://journals.sagepub.com/doi/10.1177/0962280219853599)* *Statistical Methods in Medical Research.* 29(4):1256-1270, 2020.
+* Aroca S, **Barbieri A**, Clementini M, Renouard F, de Sanctis M. *[Treatment of class III multiple gingival recessions: prognostic factors for achieving a Complete Root Coverage.](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcpe.12923)* *Journal of Clinical Periodontology.* 45(7):861-868, 2018.
+* Bascoul-Mollevi C, Savina M, Anota A, **Barbieri A**, Azria D, Bonnetain F, and Gourgou S. *[Longitudinal Health-related quality of life analysis in oncology with time to event approaches, the STATA command qlqc30_TTD.](https://www.sciencedirect.com/science/article/pii/S0169260717301049)* *Computer Methods and Programs in Biomedicine.* 158:153-159, 2018.
+* **Barbieri A**, Tami M, Bry X, Azria D, Gourgou S, Mollevi C and Lavergne C. *[EM algorithm estimation of a structural equation model for the longitudinal study of the quality of life.](https://onlinelibrary.wiley.com/doi/10.1002/sim.7557)* *Statistics in Medicine.* 37(6) :1031-1046, 2018.
+* **Barbieri A**, Peyhardi J, Lavergne C, Conroy T, Gourgou S and Mollevi C. *[Item response models for the longitudinal analysis of health-related quality of life in cancer clinical trials.](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-017-0410-9)* *BMC Medical Research Methodology.* 17(1):148, 2017.
+* **Barbieri A**, Anota A, Conroy T, Gourgou S, Juzyna B, Bonnetain F, Lavergne C and Mollevi C. *[Applying longitudinal model from Item Response Theory to assess the Health-Related Quality of Life in PRODIGE 4 / ACCORD 11 randomized trial.](https://pubmed.ncbi.nlm.nih.gov/26683246/)* *Medical Decision Making.* 36(5) :615-628, 2016.
 * **Barbieri A**, Marin J.M and Florin K. **A fully objective Bayesian approach for the Behrens-Fisher problem using historical studies.** 2016.
 [[ArXiv]](https://pubmed.ncbi.nlm.nih.gov/26683246/)
-* Anota A, **Barbieri A**, Savina M, Pam A, Gourgou-Bourgade S, Bonnetain F and Bascoul-Mollevi C. **Comparison of three longitudinal analysis models for the health-related quality of life in oncology: a simulation study.** *Health and Quality of Life Outcomes.* 12:192, 2014.
-[[Link]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4326524/)
+* Anota A, **Barbieri A**, Savina M, Pam A, Gourgou-Bourgade S, Bonnetain F and Bascoul-Mollevi C. *[Comparison of three longitudinal analysis models for the health-related quality of life in oncology: a simulation study.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4326524/)* *Health and Quality of Life Outcomes.* 12:192, 2014.
 
 ## Software
 
@@ -87,4 +82,9 @@ March 2012 - September 2012<br/>
 
 Started in November 2021<br/>
 [Léonie Courcoul](https://leoniecourcoul.netlify.app/), *Ph.D* student<br/> Co-suppervision with Hélène Jacqmin-Gadda.
+
+## Teaching
+
+2020 - <br/>
+Head of the second year of MIASHS bachelor's degree
 
