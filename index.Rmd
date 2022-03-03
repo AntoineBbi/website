@@ -2,6 +2,8 @@
 title: "Antoine Barbieri"
 image: "AB_image.jpg"
 links:
+  - label: Webpage
+    url: "https://www.math.u-bordeaux.fr/~abarbieri/index.html"
   - label: GitHub
     url: "https://github.com/AntoineBbi"
   - label: Email
@@ -16,23 +18,41 @@ I am an associate professor in the University of Bordeaux since September 2018. 
 
 ## Education
 
-**University of Montpellier** | Montpellier, France
+2016 | **Ph.D. in Biostatistics**<br/>
+*University of Montpellier*, Montpellier, France
 
-Ph.D. in Biostatistics | March 2013 - June 2016
+2012 | **Master's degree in Biostatistics**<br/>
+*University of Montpellier*, Montpellier, France
+
+2010 | **Bachelor's degree in Mathematics, computing applied to social sciences**<br/>
+*University of Grenoble*, Grenoble, France
 
 ## Professional experiences
 
-**INSERM UMR1138** | Centre de Recherche des Cordeliers, Paris, France
+Since September 2018<br/>
+**Associate professor**<br/>
+Univ. Bordeaux, INSERM, BPH, UMR1219, Bordeaux, France
 
-Postdoctorate researcher | February 2018 - August 2018
+February 2018 - August 2018<br/>
+**Postdoctorate researcher**<br/>
+**INSERM UMR1138**, *Centre de Recherche des Cordeliers*, Paris, France
 
+October 2016 - December 2017<br/>
+**Postdoctorate researcher**<br/>
+**Institute of Statistics, Biostatistics and Actuarial Sciences**, *Université catholique de Louvain (UcL)*, Louvain-la-Neuve, Belgium
 
-**Institute of Statistics, Biostatistics and Actuarial Sciences** | Université catholique de Louvain (UcL), Louvain-la-Neuve, Belgium
+March 2013 - June 2016<br/>
+**Ph.D student in Biostatistics **<br/>
+*Institut Montpelliérain Alexander Grothendieck, Univ. Montpellier | Institut régional du Cancer Montpellier*, Montpellier, France
 
-Postdoctorate researcher | October 2016 - December 2017
+March 2012 - September 2012<br/>
+**Internship in Biostatistics **<br/>
+*R&D Sanofi*, Montpellier, France
+
 
 ## Publications
 
+* **Barbieri A**, Cousson-Gélie F, Baussard L, Gourgou S, Lavergne C, Mollevi C. **The importance of using ordinal scores for patient classification based on health-related quality of life trajectories.** Accepted in *Pharmaceutical statistics*, 2022.
 * de Courson H, Ferrer L, **Barbieri A** et al. **Impact of Model Choice When Studying the Relationship Between Blood Pressure Variability and Risk of Stroke Recurrence.** *Hypertension.* 78(5):1520-1526, 2021.
 [[Link]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)
 * Bascoul-Mollevi C, **Barbieri A**, Bourgier C et al. **Longitudinal analysis of health-related quality of life in cancer clinical trials: methods and interpretation of results.** *Quality of Life Research.* 30:91–103, 2021.
@@ -56,11 +76,11 @@ Postdoctorate researcher | October 2016 - December 2017
 
 ## Software
 
-* *BQt* is a downloadable R-package. This package concerns the estimation of quantile regression joint models, linear quantile mixed models, and linear quantile regression, using Bayesian approach.
+* **BQt** is a downloadable R-package. This package concerns the estimation of quantile regression joint models, linear quantile mixed models, and linear quantile regression, using Bayesian approach.
 [[GitHub]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)
-* *JMcuR* is a downloadable R-package from GitHub. This package includes all programs associated with the published research in Barbieri and Legrand (2019).
+* **JMcuR** is a downloadable R-package from GitHub. This package includes all programs associated with the published research in Barbieri and Legrand (2019).
 [[GitHub]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)
-* *QoLSEM* is a downloadable R-package from GitHub. This package includes programs associated with the published research in Barbieri A, Tami M et al. (2018).
+* **QoLSEM** is a downloadable R-package from GitHub. This package includes programs associated with the published research in Barbieri A, Tami M et al. (2018).
 [[GitHub]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)
 
 ## Supervision
