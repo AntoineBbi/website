@@ -14,7 +14,7 @@ output:
  
 ## Who I am ?
 
-I am currently associate professor at the [University of Bordeaux](https://www.u-bordeaux.fr/) since September 2018. I do my research activity in [Biostatistic team](https://www.bordeaux-population-health.center/les-equipes/biostatistique/) from [Bordeaux population heath center (INSERM UMR1219)](https://www.bordeaux-population-health.center/en/). 
+I am associate professor at the [University of Bordeaux](https://www.u-bordeaux.fr/) since September 2018. I do my research activity in [Biostatistic team](https://www.bordeaux-population-health.center/les-equipes/biostatistique/) from [Bordeaux population heath center (INSERM UMR1219)](https://www.bordeaux-population-health.center/en/). 
 I teach in the [Unité de Formation Mathématiques et Intéractions](https://math-interactions.u-bordeaux.fr/)
 It rocks and I'm rockupied !
 
@@ -56,7 +56,7 @@ March 2012 - September 2012<br/>
 
 ## Publications
 
-* **Barbieri A**, Cousson-Gélie F, Baussard L, Gourgou S, Lavergne C, Mollevi C. **The importance of using ordinal scores for patient classification based on health-related quality of life trajectories.** Accepted in *Pharmaceutical statistics*, 2022.
+* **Barbieri A**, Cousson-Gélie F, Baussard L, Gourgou S, Lavergne C, Mollevi C. *[The importance of using ordinal scores for patient classification based on health-related quality of life trajectories.](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2205)*. *Pharmaceutical Statistics.* 2022.
 * de Courson H, Ferrer L, **Barbieri A** et al. *[Impact of Model Choice When Studying the Relationship Between Blood Pressure Variability and Risk of Stroke Recurrence.](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16807)* *Hypertension.* 78(5):1520-1526, 2021.
 * Bascoul-Mollevi C, **Barbieri A**, Bourgier C et al. *[Longitudinal analysis of health-related quality of life in cancer clinical trials: methods and interpretation of results.](https://link.springer.com/article/10.1007/s11136-020-02605-3)* *Quality of Life Research.* 30:91–103, 2021.
 * **Barbieri A** and Legrand C. *[Joint longitudinal and time-to-event cure models to improve the assessment of being cured.](https://journals.sagepub.com/doi/10.1177/0962280219853599)* *Statistical Methods in Medical Research.* 29(4):1256-1270, 2020.
